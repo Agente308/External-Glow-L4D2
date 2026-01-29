@@ -1,0 +1,10 @@
+F:\! ! ! ! ! ! ! ! ! ! ! ! !! ! Projects\L4D2ExternalGlow\L4D2ExternalGlow\bin\Debug\L4D2ExternalGlow.exe.config
+F:\! ! ! ! ! ! ! ! ! ! ! ! !! ! Projects\L4D2ExternalGlow\L4D2ExternalGlow\bin\Debug\L4D2ExternalGlow.exe
+F:\! ! ! ! ! ! ! ! ! ! ! ! !! ! Projects\L4D2ExternalGlow\L4D2ExternalGlow\bin\Debug\L4D2ExternalGlow.pdb
+F:\! ! ! ! ! ! ! ! ! ! ! ! !! ! Projects\L4D2ExternalGlow\L4D2ExternalGlow\obj\Debug\L4D2ExternalGlow.csproj.AssemblyReference.cache
+F:\! ! ! ! ! ! ! ! ! ! ! ! !! ! Projects\L4D2ExternalGlow\L4D2ExternalGlow\obj\Debug\L4D2ExternalGlow.Form1.resources
+F:\! ! ! ! ! ! ! ! ! ! ! ! !! ! Projects\L4D2ExternalGlow\L4D2ExternalGlow\obj\Debug\L4D2ExternalGlow.Properties.Resources.resources
+F:\! ! ! ! ! ! ! ! ! ! ! ! !! ! Projects\L4D2ExternalGlow\L4D2ExternalGlow\obj\Debug\L4D2ExternalGlow.csproj.GenerateResource.cache
+F:\! ! ! ! ! ! ! ! ! ! ! ! !! ! Projects\L4D2ExternalGlow\L4D2ExternalGlow\obj\Debug\L4D2ExternalGlow.csproj.CoreCompileInputs.cache
+F:\! ! ! ! ! ! ! ! ! ! ! ! !! ! Projects\L4D2ExternalGlow\L4D2ExternalGlow\obj\Debug\L4D2ExternalGlow.exe
+F:\! ! ! ! ! ! ! ! ! ! ! ! !! ! Projects\L4D2ExternalGlow\L4D2ExternalGlow\obj\Debug\L4D2ExternalGlow.pdb

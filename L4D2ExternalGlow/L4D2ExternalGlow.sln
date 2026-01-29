@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 18
+VisualStudioVersion = 18.0.11222.15 d18.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L4D2ExternalGlow", "L4D2ExternalGlow\L4D2ExternalGlow.csproj", "{A2B4BFAA-0000-4000-8000-000000000000}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2B4BFAA-0000-4000-8000-000000000000}.Debug|x86.ActiveCfg = Release|x86
+		{A2B4BFAA-0000-4000-8000-000000000000}.Debug|x86.Build.0 = Release|x86
+		{A2B4BFAA-0000-4000-8000-000000000000}.Release|x86.ActiveCfg = Release|x86
+		{A2B4BFAA-0000-4000-8000-000000000000}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00B358A6-094A-4D02-8665-D470C13889C7}
+	EndGlobalSection
+EndGlobal
